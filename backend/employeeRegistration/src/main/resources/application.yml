@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: root
+    password: 1234
+    url: jdbc:mysql://localhost:3306/employee_crm
+  jpa:
+    hibernate:
+      ddl-auto: update

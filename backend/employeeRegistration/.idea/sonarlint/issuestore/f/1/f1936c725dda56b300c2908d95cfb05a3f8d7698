@@ -1,5 +1,12 @@
 
-m
-java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8…ùØ•ô1J$26be9213-910f-41bf-a22f-96f3ff54bc8e
-m
-java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ8…ùØ•ô1J$651ecd86-131d-4481-afd0-32b234668def
+H
+java:S1068	"&Remove this unused "id" private field.(â¼°Ñûÿÿÿÿ8ÓÃú¶ö1
+E
+java:S1068
+"(Remove this unused "name" private field.(Ë¥¼8ÔÃú¶ö1
+D
+java:S1068"'Remove this unused "age" private field.(–Œó¯8ÖÃú¶ö1
+M
+java:S1068"+Remove this unused "address" private field.(÷§ùÿÿÿÿ8ÖÃú¶ö1
+E
+java:S1068"(Remove this unused "role" private field.(±õÉÖ8×Ãú¶ö1
